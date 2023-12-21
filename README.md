@@ -19,7 +19,7 @@ This repo is a fork of [4D-Humans](https://github.com/shubham-goel/4D-Humans) an
 ├── hmr2/
 ├── notebooks/      -- Notebooks used for analysis, cleaning and processing
 ```
-# Setup and Installtion
+# Setup and Installation
 Follow the 4D-Humans setup first and use the 4D Humans environment to avoid different dependency versions.
 
 ## 4D-Humans Installation and Setup
