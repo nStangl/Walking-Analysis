@@ -238,7 +238,7 @@ def get_step_metrics(tracklets, video, person_id, dim, joint='Heel', smoothing=T
     steps_length, indices, starting_point = filter_steps(difference)
 
     #speed
-    print('Processing video (step_length):', video, 'id:', person_id)
+    #print('Processing video (step_length):', video, 'id:', person_id)
     time = indices[-1] - starting_point #in timeframes
     distance = np.sum(steps_length)
     speed = (distance/time) * 30 #m/s video are in 30 fps
