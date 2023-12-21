@@ -19,6 +19,12 @@ This repo is a fork of [4D-Humans](https://github.com/shubham-goel/4D-Humans) an
 ├── hmr2/
 ├── notebooks/      -- Notebooks used for analysis, cleaning and processing
 ```
+
+Most important files:
+* [File](biomechanics/functions.py) containing functions for calculating biomechanics
+* [File](biomechanics/joints.py) with joints definition
+* [Notebook](notebooks/biometrics.ipynb) processing 4DHumans outputs and calculating biomechanics
+  
 # Setup and Installation
 Follow the 4D-Humans setup first and use the 4D Humans environment to avoid different dependency versions.
 
