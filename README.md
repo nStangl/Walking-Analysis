@@ -2,7 +2,7 @@
 Using Human Recognition Models to analyze an individuals walking gait for indications of abnormality, asymmetry and instability with an increased risk of falling.
 This project is based on processing results of [4D-Humans](https://shubham-goel.github.io/4dhumans/) ([Paper](https://arxiv.org/pdf/2305.20091.pdf) and [Code](https://github.com/shubham-goel/4D-Humans)) and detecting abnormalities in an individuals walking style.
 
-![teaser](assets/walking-teaser.png)
+![teaser](assets/walking-teaser-2.png)
 
 See the example [visualisation](https://drive.google.com/file/d/1xa-etX3aAzjuhvBy6Vb3kGbTrS8drLdg/view?usp=sharing).
 
