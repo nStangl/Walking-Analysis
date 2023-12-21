@@ -4,6 +4,8 @@ This project is based on processing results of [4D-Humans](https://shubham-goel.
 
 ![teaser](assets/walking-teaser.png)
 
+See the example [visualisation](https://drive.google.com/file/d/1xa-etX3aAzjuhvBy6Vb3kGbTrS8drLdg/view?usp=sharing).
+
 
 # Repo Overview
 
